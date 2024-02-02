@@ -1,0 +1,4 @@
+Note: before starting on this, make sure you download pygame since this is using most of pygame's material
+Go to the website: https://www.pygame.org/news
+At the time of this workshop, it is currently: "python -m pip install -U pygame==2.5.2 --user" to download pygame
+Once downloaded, the Starter file.py will be where you start and the Answer file.py is the completed version of this game.
